@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I enjoy development work, problem solving, and drinking coffee! ☕
+I enjoy development work, problem solving, and drinking tea! 🫖
 
 <!--
 **JPMoles/JPMoles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
